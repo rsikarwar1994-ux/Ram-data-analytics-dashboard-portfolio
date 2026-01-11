@@ -25,9 +25,10 @@ This repository showcases my projects, dashboards, and analytical work.
 
 ---
 
-### 🔹 Project 2 – Customer Analysis (SQL)
+### 🔹 Project 2 – Sales and Marketing Dashboard 
 **Description**: Built a dynamic Power BI dashboard to monitor sales revenue, marketing spend, and team performance across months and regions. The dashboard provides executive-level KPIs and trend analysis to support strategic business decisions.  
 **Tools**: SQL (Data extraction and transformation) and Power BI (Data modeling, DAX, Visualizations)
+
 **Dashboard Preview**: <img width="1167" height="649" alt="image" src="https://github.com/user-attachments/assets/6537d7c8-cbd9-40c2-91f0-36af7a5cb6dc" />
 
 **Key Insights**:
